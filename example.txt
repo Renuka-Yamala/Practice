@@ -1,1 +1,3 @@
-Hi RENUKA
+
+This is the main branch file.
+It contains data before merging with the child branch.
